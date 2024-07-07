@@ -9,4 +9,4 @@ In this case, the on-premises database is SQL server and I have used the publicl
 **Components and Data flow:**
 • SQL Server: On-premises Database which needs to be transformed. The SQL server was connected to Azure data factory using the self-hosted Integration runtime. The tables in the AdventureWorksLT2017 database was moved and transformed using Data factory into the Azure Data Lake storage. An user was created for the AdventureWorksLT2017 Database and the password was stored in the Key vault and was used by Data factory.
 
-![name](images/mssql 2.png)
+![name](images/mssqldb.png)
