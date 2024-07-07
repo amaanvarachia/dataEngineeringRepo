@@ -1,6 +1,7 @@
 API real time data to Database via ETL pipeline. Utilized yelp Fusion API (https://docs.developer.yelp.com/docs/fusion-intro)
 
 # Config File
+
 <pre>
 [KEYS]
 CLIENT_KEY=<YOUR CLIENT KEY>
@@ -15,8 +16,8 @@ password=<PASSWORD>
 port=<PORT
 </pre>
 
-
 # Files
+
 <pre>
 auth.py - Contains configuration variable for making HTTP Request
 
@@ -30,6 +31,7 @@ request.py - Contains class to handle making request to the API
 
 driver.py - Entry point for the application, contains parsing command line arguments and control the program flow.
 </pre>
+
 
 # Run Code
 <pre>
