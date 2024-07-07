@@ -4,7 +4,7 @@ Source on prem data, transform the data and load it to cloud storage for busines
 
 <u>**Architecture**</u>
 
-[archietcure](images/etl.png)
+![Architecture](images/etl.png)
 
 In this case, the on-premises database is SQL server and I have used the publicly available AdventureWorksLT2017 database for this purpose. The reason for using this is, it is lightweight and helps control the costs incurred and to showcase the process rather than the computing power. The size of the Dataset in real life situation would be much larger and the architecture used in this project would still be able to handle it very efficiently. The high-level architecture diagram is as below.
 
