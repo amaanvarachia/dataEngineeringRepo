@@ -15,6 +15,7 @@ password=<PASSWORD>
 port=<PORT
 </pre>
 
+
 # Files
 <pre>
 auth.py - Contains configuration variable for making HTTP Request
