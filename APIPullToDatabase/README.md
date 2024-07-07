@@ -39,4 +39,4 @@ python driver.py --term food --location Montreal --price 3
 </pre>
 
 # Output
-![name](APIPullToDatabase/Resultsapiyelpdb.png)
+![name](Resultsapiyelpdb.png)
