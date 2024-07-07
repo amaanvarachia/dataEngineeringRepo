@@ -39,3 +39,6 @@ PowerBI : Now that the data can be analyzed using Azure Synapse. We can use that
 
 ![name](images/pbi.jpeg)
 
+# Project 2: OLTP Flow, Yelp API data to SQL Database
+In this project I am mimicking grabbing real time data from an open source API to mimick how Yelp may be populating an OLTP system. 
+[APIPullToDatabase](APIPullToDatabase)
