@@ -14,7 +14,7 @@ database=<DB NAME>
 username=<USER NAME>
 password=<PASSWORD>
 port=<PORT
-</pre>
+       </pre\>
 
 # Files
 
